@@ -6,7 +6,7 @@ package ejercicio5;
 
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class NumeroCentro {
 
     /**
      * @param args the command line arguments

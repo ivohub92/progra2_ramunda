@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-public class Ejercicio7 {
+public class DiasVividos {
 
     
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
 package ejercicio1;
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class MaxMin {
 
     
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Ejercicio1 {
         int min= Integer.MAX_VALUE;
         int max= Integer.MIN_VALUE;
         int suma=0;
-        int promedio;
+        double promedio;
         
         for(int i=1; i<=5; i++)
         {
@@ -28,7 +28,7 @@ public class Ejercicio1 {
             suma+=numero;       
             
         }
-        promedio=suma/5;
+        promedio=(double)suma/5;
         System.out.println("El numero max es "+ max);
         System.out.println("El numero min es "+min);
         System.out.println("El promedio es "+promedio);

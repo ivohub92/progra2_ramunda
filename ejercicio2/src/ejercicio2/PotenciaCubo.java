@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author Ivan
  */
-public class Ejercicio2 {
+public class PotenciaCubo{
 
     /**
      * @param args the command line arguments

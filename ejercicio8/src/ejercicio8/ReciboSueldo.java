@@ -5,7 +5,7 @@
 package ejercicio8;
 import java.util.Scanner;
 
-public class Ejercicio8 {
+public class ReciboSueldo {
 
     public static void main(String[] args) {
         Scanner ingresado= new Scanner(System.in);
